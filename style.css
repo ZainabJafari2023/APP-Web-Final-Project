@@ -1,0 +1,162 @@
+header{
+    display: flex;
+    justify-content: space-around;
+    align-items: start;
+    background-color: orangered;
+    margin-top: 0;
+    width: 100%;
+    height: 45px;
+}
+a{
+    text-decoration: none;
+    color: black;
+    padding-top: 13px;
+    font-weight: bold;
+}
+a:hover{
+    color: blue;
+    font-weight: bold;
+}
+body{
+    margin: 0;
+    padding: 0;
+    background-color: black;
+}
+#body{
+    background-image: url(sss.jpg);
+}
+.food-section{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 100px;
+
+}
+.food-image{
+    width: 350px;
+    height: 300px;
+}
+.food-para{
+    color: white;
+}
+.food-heading{
+text-align: center;
+ color: white;
+ margin-top: 40px;
+ color: orangered;
+}
+.sport-heading1{
+    color:orangered;
+    text-align: center;
+    margin-top: 40px;
+}
+.sport-para{
+    color: white;
+    width: 600px;
+}
+.paragraph{
+    float: left;
+}
+.sport-section{
+    margin-left: 50px;
+}
+.teak{
+    width: 250px;
+    height: 220px;
+    margin-top: 28px;
+    margin-left: 20px;
+}
+.sport-heading2{
+    color: white;
+}
+
+.sport-section2{
+    margin-top: 40px;
+    color: white;
+    margin-left: 50px;
+}
+.running-image{
+    width: 350px;
+}
+.sport-part{
+    display: flex;
+    justify-content: space-between;
+}
+ul li{
+    margin-right: 500px;
+}
+.sport-section3{
+    color: white;
+    margin-left: 50px;
+    margin-top: 70px;
+    margin-bottom: 20px;
+}
+.soccer-image{
+    width: 350px;
+    height: 260px;
+}
+.soc{
+    display: flex;
+    justify-content: space-around;
+}
+.socer-para{
+    margin-right: 40px;
+}
+.main-heading{
+    color: blue;
+    text-align: center;
+    margin-top: 110px;
+    font-size: 30px;
+}
+.main-para{
+    color: blue;
+    font-weight: bold;
+    font-size: 20px;
+    text-align: center;
+}
+.main-image{
+    width: 270px;
+    height: 280px;
+    border: orangered 4px solid;
+    border-radius: 50%;
+    margin-left: 40%;
+    margin-top: 20px;
+}
+.footer{
+    background-color: orangered;
+    color: black;
+    padding: 10px;
+    margin-bottom: 0;
+    text-align: center;
+    font-weight: bold;
+   
+}
+.code{
+    width: 300px;
+    margin-bottom: 15px;
+    margin-right: 10px;
+    margin-top: 20px;
+    border-radius: 7%;
+    border: 2px orangered solid;
+
+}
+.habit-para{
+    color: white;
+    margin-left: 10px;
+    width: 700px;
+    border: 2px orangered solid;
+    padding: 50px;
+    border-radius: 7%;
+}
+.habit{
+    display: flex;
+    justify-content: space-around;
+}
+.first{
+    margin-top: 40px;
+}
+
+
+
+
+
+
